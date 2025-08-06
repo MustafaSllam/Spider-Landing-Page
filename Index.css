@@ -329,7 +329,7 @@ img.yt-icon {
         grid-template-rows:  repeat(4,auto);
         width: 120%;
         top: 135%;
-        left: 80%;
+        left: 78%;
         border-radius: 20px;
     }
     .wallpapers div:first-child {
@@ -455,7 +455,7 @@ img.yt-icon {
     .wallpapers {
         padding: 10px;
         height: fit-content;
-        top: 172%;
+        top: 170%;
         left: 5%;
     }
     .wallpapers div img {
@@ -463,9 +463,10 @@ img.yt-icon {
     }
     footer {
         width: 228%;
-        top: 322%;
+        top: 332%;
     }
 }
+
 
 
 
