@@ -455,17 +455,18 @@ img.yt-icon {
     .wallpapers {
         padding: 10px;
         height: fit-content;
-        top: 152%;
+        top: 156%;
         left: 5%;
     }
     .wallpapers div img {
         width: 250px;
     }
     footer {
-        width: 225%;
-        top: 307%;
+        width: 226%;
+        top: 315%;
     }
 }
+
 
 
 
