@@ -455,7 +455,7 @@ img.yt-icon {
     .wallpapers {
         padding: 10px;
         height: fit-content;
-        top: 180%;
+        top: 175%;
         left: 5%;
     }
     .wallpapers div img {
@@ -466,6 +466,7 @@ img.yt-icon {
         top: 322%;
     }
 }
+
 
 
 
